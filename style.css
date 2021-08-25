@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+body {
+    background-image: url(https://wallpaperaccess.com/full/869905.gif);
+}
+
+h1 {
+    color: rgb(22, 181, 192);
+    display: flex;
+    text-align: left;
+    font-family: "Rampart One";
+    font-size: 60px;
+    margin: auto;
+}
+
+p {
+    color: rgb(22, 181, 192);
+    font-family: "Rampart One";
+    font-size: 40px;
+}
+
+h3 {
+    color: rgb(22, 181, 192);
+    font-family: "Rampart One";
+    font-size: 30px;
+}
+
+a {
+    color: rgb(22, 181, 192);
+    font-family: "Rampart One";
+    font-size: 20px;
+}
